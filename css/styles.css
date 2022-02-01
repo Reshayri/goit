@@ -1,0 +1,114 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color:  #e9eef3;
+}
+.mainContainer{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color:rgb(240, 248, 240);
+    margin: 40px auto;
+}
+
+.aboutMeProfession{
+  font-size: 14px;
+  font-weight: 700;
+  color:black;
+}
+
+
+
+.myProjectSection{
+    
+}
+
+.MyWorkExperienceSection{
+  
+}
+
+.myEducationSection {
+  
+}
+
+
+ /* Sidebar section */
+ .sidebarSection{
+  background-color:rgb(8, 41, 41); 
+  width: 370px;
+  padding: 40px 0;
+};
+
+/* Contact Sections /* Tech Scills */ */
+.contactSection,
+.techSkillsSektions{
+margin: 50px 0 0 40px;
+
+};
+
+/* Sidebar Title and Contact*/
+.sidebarTitle{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: white;      /* Achtung!  Тут у меня не поменялся цвет на sidebarTitle! ПРИЧИНУ НЕ НАШЕЛ.*/
+margin-bottom: 10px;
+ 
+};
+
+
+/* Contact Section */
+.contactSectionType{
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: white;
+margin-right: 7px;
+};
+
+.contactSection,
+.sidebarTitle{
+  color:white;
+}
+
+.contactSectionLink{
+  color: #8E949C;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  }
+
+  .contactSection,
+.sidebarTitle{
+  color:white;
+}
+
+/* Tech Skills List Section */
+.techSkillsList{
+padding: 0 0 0 17px ;
+};
+.techSkillsItem{
+color: #FB6D3A; 
+}
+.techSkillsItemText{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: white;
+}
+/* <!--Soft Skills section--> */
+.Soft-Scill-List{
+  padding: 0 0 0 17px ;
+  }
+  .Soft-Scill-Item{
+  color: #FB6D3A; 
+  }
+  .Soft-Scill-Text{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+  }
